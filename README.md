@@ -23,7 +23,7 @@
   
 - ΒΑΛΥΡΑΚΗΣ ΜΑΝΟΥΣΟΣ
    - AM 164332
-   - github link: https://github.com/ManousosValirakis/CV
+   - github link: https://github.com/ManousosValirakis/cv-yaml-pdf
 
   
 ## Δομή αποθετηρίου
